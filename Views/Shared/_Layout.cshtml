@@ -1,0 +1,75 @@
+﻿
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TripPlanner_1</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/TripPlanner_1.styles.css" asp-append-version="true" />
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-orange navbar-custom">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="~/img/Trip.png" alt="Logo" style="height: 50px;"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">
+                                <img src="~/img/Home.png" alt="Logo" style="height: 40px; margin-right: 5px;">
+                            </a>
+                        </li>
+
+                        
+                        <li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("Login", "Account")">
+                                <img src="~/img/login.png" alt="Logo" style="height: 40px; margin-right: 5px;">
+                            </a>
+                            
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Hotel" asp-action="Index">
+                                <img src="~/img/Hotel.png" alt="Logo" style="height: 40px; margin-right: 5px;">
+                            </a>
+                        </li>
+                       
+                        <li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("Register", "Account")">
+                                <img src="~/img/Aboutus.png" alt="Logo" style="height: 40px; margin-right: 5px;">
+                            </a>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <main role="main" class="mt-5">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer text-muted bg-lightgreen mt-5">
+        <div class="container">
+            <p class="text-center">&copy; 2024 - TripPlanner_1 - <a asp-area="" asp-controller="Home"
+                    asp-action="Privacy">Privacy</a></p>
+        </div>
+    </footer>
+
+    <script src="~/lib/htmx.org/dist/htmx.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

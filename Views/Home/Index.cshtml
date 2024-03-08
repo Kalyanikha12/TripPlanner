@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Trip Planner</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <style>
+        body.home {
+            background-image: url('https://image.slidesdocs.com/responsive-images/background/nature-fashion-colorful-travel-travel-agency-color-powerpoint-background_c904a89ad6__960_540.jpg'); 
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        .home .nav-link {
+            color: #121111; 
+            font-weight: bold; 
+        }
+        
+    </style>
+</head>
+<body class="home">
+
+    <div class="text-center mt-5">
+        <h1 class="display-4">Welcome to Trip Planner</h1>
+        <p class="lead">Plan your dream vacation with ease!</p>
+        <div class="container">
+            <div class="row">
+                <div class="col-md">
+                    <h2>Start Planning</h2>
+                    <p class="text-muted">Select your holiday destination and choose your mode of transport.</p>
+                    <a href="@Url.Action("Index", "Holidaydestination")" class="btn btn-primary btn-lg">Choose a Holiday Destination</a>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    
+</body>
+</html>

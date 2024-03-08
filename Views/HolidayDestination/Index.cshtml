@@ -1,0 +1,105 @@
+@model List<TripPlanner_1.Models.Holidaydestination>
+
+
+<html>
+
+<head>
+    <title>Choose a Holiday Destination</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyfC7NwSNjOgIGeVkgT_uHJiz3Fju1qxObDQ&usqp=CAU');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-color: #f8f9fa;
+        }
+
+        .destination-container {
+            margin-top: 20px;
+        }
+
+        .destination-card {
+            height: 90%;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .destination-card .card-body {
+            height: 80%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .destination-card img {
+            height: 180px;
+            object-fit: cover;
+            width: 100%;
+        }
+
+        .destination-card .card-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .destination-card .card-text {
+            color: #6c757d;
+        }
+
+        .destination-card button {
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <form hx-swap="none" hx-post="/Hotel/GetDestinationHotel">
+
+        <div class="container destination-container">
+            <div class="text-center">
+                <h1>Choose a Holiday Destination</h1>
+            </div>
+
+            @if (Model != null && Model.Count > 0)
+            {
+                <div class="row">
+                    @foreach (var destination in Model)
+                    {
+                        <div class="col-md-4">
+                            <div class="card destination-card">
+                                <div class="card-body">
+                                    <img src="~/img/@destination.Image" alt="@destination.DestinationName Image"
+                                        class="card-img-top mb-3">
+                                    <h5 class="card-title">@destination.DestinationName</h5>
+                                    <p class="card-text">@destination.Discription</p>
+                                </div>
+                                
+                                <div  class="card-footer" >
+                                    @* <input  class="dest" type="hidden" name="Destinationid" value="@destination.Destinationid" />
+                                    <button type="submit" class="btn btn-primary book-btn" hx-swap="none" hx-post="/Hotel/GetDestinationHotel"
+                                    hx-target="none" hx-trigger="onclick" hx-include=".dest">Select</button> *@
+                                    <button type="submit" class="btn btn-primary book-btn">Select</button>
+                                 </div>
+                                 
+                            </div>
+                        </div>
+
+
+                    }
+                </div>
+            }
+            else
+            {
+                <p class="text-center">No holiday destinations available.</p>
+            }
+        </div>
+        
+    </form>
+</body>
+
+</html>

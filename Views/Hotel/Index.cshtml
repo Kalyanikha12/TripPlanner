@@ -1,0 +1,94 @@
+@model List<TripPlanner_1.Models.Hotel>
+
+
+<html>
+<head>
+    <title>Choose a Hotel</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyfC7NwSNjOgIGeVkgT_uHJiz3Fju1qxObDQ&usqp=CAU');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-color: #f8f9fa;
+        }
+
+        .hotel-container {
+            margin-top: 20px;
+        }
+
+        .hotel-card {
+            height: 90%;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .hotel-card .card-body {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .hotel-card img {
+            height: 180px; 
+            object-fit: cover;
+            width: 100%;
+        }
+
+        .hotel-card .card-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .hotel-card .card-text {
+            color: #6c757d;
+        }
+
+        .hotel-card button {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container hotel-container ">    
+        
+        <div class="text-center">
+            <h1>Choose a Hotel</h1>
+        </div>
+        
+        @if (Model != null && Model.Any())
+        {
+            <div class="row">
+                @foreach (var hotel in Model)
+                {
+                    <div class="col-md-4">
+                        <div class="card hotel-card">
+                            <div class="card-body">
+                                <img src="~/img/@hotel.Hotelimage" alt="@hotel.Hotelname Image" class="card-img-top mb-3">
+                                <h5 class="card-title">@hotel.Hotelname</h5>
+                                <p class="card-text">Price Per Night: @hotel.Pricepernight</p>
+                                 <form method="post" action="@Url.Action("Userhotelbooking", "UserHotelBooking")">
+                                    <input type="hidden" name="hotelId" value="@hotel.Hotelid" />   
+                                    <button type="submit" class="btn btn-primary book-btn">Book</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+        else
+        {
+            <p class="text-center">No hotels available.</p>
+        }
+    </div>
+
+   
+</body>
+</html>

@@ -1,0 +1,513 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TripPlanner_1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TripPlanner_1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Aboutus.png",
+      "PackagePath": "staticwebassets\\img\\Aboutus.png"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Amritsar.jpg",
+      "PackagePath": "staticwebassets\\img\\Amritsar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Anex.jpg",
+      "PackagePath": "staticwebassets\\img\\Anex.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Aqua.jpg",
+      "PackagePath": "staticwebassets\\img\\Aqua.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Dream Resort.jpg",
+      "PackagePath": "staticwebassets\\img\\Dream Resort.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Flight.jpg",
+      "PackagePath": "staticwebassets\\img\\Flight.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Four seasons.jpg",
+      "PackagePath": "staticwebassets\\img\\Four seasons.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Goa.jpg",
+      "PackagePath": "staticwebassets\\img\\Goa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Grace Inn.jpg",
+      "PackagePath": "staticwebassets\\img\\Grace Inn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\GreenLeaf.jpg",
+      "PackagePath": "staticwebassets\\img\\GreenLeaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Home.png",
+      "PackagePath": "staticwebassets\\img\\Home.png"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Hotel Square.jpg",
+      "PackagePath": "staticwebassets\\img\\Hotel Square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Hotel.png",
+      "PackagePath": "staticwebassets\\img\\Hotel.png"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Kedarnath.jpg",
+      "PackagePath": "staticwebassets\\img\\Kedarnath.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Kullu Manali.jpg",
+      "PackagePath": "staticwebassets\\img\\Kullu Manali.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Login.png",
+      "PackagePath": "staticwebassets\\img\\Login.png"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Manor.jpg",
+      "PackagePath": "staticwebassets\\img\\Manor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Mehfil Inn.jpg",
+      "PackagePath": "staticwebassets\\img\\Mehfil Inn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Noble.jpg",
+      "PackagePath": "staticwebassets\\img\\Noble.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Ooty.jpg",
+      "PackagePath": "staticwebassets\\img\\Ooty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Palace Inn.jpg",
+      "PackagePath": "staticwebassets\\img\\Palace Inn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Paradise.jpg",
+      "PackagePath": "staticwebassets\\img\\Paradise.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Paris.jpg",
+      "PackagePath": "staticwebassets\\img\\Paris.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Regal Retreat.jpg",
+      "PackagePath": "staticwebassets\\img\\Regal Retreat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Regency.jpg",
+      "PackagePath": "staticwebassets\\img\\Regency.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Seasons.jpg",
+      "PackagePath": "staticwebassets\\img\\Seasons.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Taj.jpg",
+      "PackagePath": "staticwebassets\\img\\Taj.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Tent.jpg",
+      "PackagePath": "staticwebassets\\img\\Tent.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Trip.png",
+      "PackagePath": "staticwebassets\\img\\Trip.png"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\img\\Voyage Resort.jpg",
+      "PackagePath": "staticwebassets\\img\\Voyage Resort.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\htmx.org"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\README.md",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\ajax-header.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\ajax-header.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\alpine-morph.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\alpine-morph.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\class-tools.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\class-tools.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\client-side-templates.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\client-side-templates.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\debug.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\debug.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\disable-element.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\disable-element.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\event-header.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\event-header.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\head-support.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\head-support.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\include-vals.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\include-vals.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\json-enc.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\json-enc.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\loading-states.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\loading-states.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\method-override.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\method-override.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\morphdom-swap.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\morphdom-swap.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\multi-swap.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\multi-swap.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\path-deps.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\path-deps.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\path-params.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\path-params.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\preload.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\preload.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\rails-method.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\rails-method.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\remove-me.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\remove-me.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\response-targets.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\response-targets.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\restored.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\restored.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\sse.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\sse.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\ext\\ws.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\ext\\ws.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\htmx.d.ts",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\htmx.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\htmx.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\htmx.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\htmx.min.js",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\htmx.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\dist\\htmx.min.js.gz",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\dist\\htmx.min.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\editors\\jetbrains\\htmx.web-types.json",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\editors\\jetbrains\\htmx.web-types.json"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\htmx.org\\package.json",
+      "PackagePath": "staticwebassets\\lib\\htmx.org\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KALYSURE\\OneDrive - Capgemini\\Documents\\Casestudy\\TripPlanner_1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TripPlanner_1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TripPlanner_1.props",
+      "PackagePath": "build\\TripPlanner_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TripPlanner_1.props",
+      "PackagePath": "buildMultiTargeting\\TripPlanner_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TripPlanner_1.props",
+      "PackagePath": "buildTransitive\\TripPlanner_1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
